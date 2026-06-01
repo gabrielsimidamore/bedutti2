@@ -5,7 +5,7 @@
   'use strict';
 
   // ---- CONFIG (edite aqui) ----
-  var WHATSAPP = '5511990000000'; // DDI+DDD+numero, só dígitos
+  var WHATSAPP = '5511973935623'; // DDI+DDD+numero, só dígitos
   var WA_MSG = encodeURIComponent('Olá! Tenho interesse no sobrado The Square Village (Granja Viana, R$ 1.070.000). Gostaria de agendar uma visita.');
 
   // ---- Gallery data (standalone: srcs resolved from window.__resources) ----
